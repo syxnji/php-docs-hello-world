@@ -63,4 +63,4 @@ jobs:
           app-name: 'webapp-kohama-250718'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D334CDEF888D40CAA995ADB4A463AAAE }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7C6B187E30AB4949B3A52EE1E4A9BBAF }}
